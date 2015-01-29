@@ -9,7 +9,7 @@
 ### This is the course site to the spring section of Introduction to Computer Programming.
 
 - Some details to note:
-- ⬡ You can find the departmental syllabus [here](http://cs.nyu.edu/courses/spring14/CSCI-UA.0002-005/commonsyllabus.html).
+- ⬡ You can find the departmental syllabus [here](http://cs.nyu.edu/courses/fall14/CSCI-UA.0002-004/common_syllabus/).
 - ⬡ My office hours are Thursdays 1pm - 2p in room 328 WWH
 - ⬡ Assignments will be posted on Github
 - ⬡ Grades will be posted in NYU Classes
@@ -22,7 +22,7 @@
 #Topics
 
 - ⬡ Introduction to Programming Languages
-- ⬡ Python Basics
+- :snake: Python Basics
 - ⬡ Working with variables and operations
 - ⬡ Control Structures
 - ⬡ Repetition Structures
@@ -52,7 +52,7 @@
 - [How to Think Like a Computer Scientist: Learning with Python 3](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
 
-- [Instructions for downloading Python] (http://getpython3.com/diveintopython3/installing-python.html)
+- [Instructions for downloading Python](http://getpython3.com/diveintopython3/installing-python.html)
 
 - Visual Quickstart Guide to Python by Tony Donaldson
 
